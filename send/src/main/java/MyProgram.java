@@ -1,6 +1,6 @@
 public class MyProgram {
 
 public static void main(String[] args){
-System.out.println("Privit!");
+System.out.println("Privit!Privit!Privit!Privit!");
 }
 }
