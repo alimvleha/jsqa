@@ -1,4 +1,4 @@
-package ru.qa.qa.send;
+package ru.qa.send;
 
 public class Rectangle {
 
